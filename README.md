@@ -3,6 +3,6 @@
 
 ### `To check please visit`
 
-Open [http://localhost:3000]to view it in your browser.
+Open [https://radiant-zuccutto-0fc23f.netlify.app/] to view it in your browser.
 
 ### Still in process .....
